@@ -1,0 +1,6 @@
+__pycache__/
+logs/
+venv/
+*.bat
+*.json
+*.csv
